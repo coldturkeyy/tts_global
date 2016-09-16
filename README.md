@@ -1,5 +1,3 @@
-# tts_global
-
 # Instructions
 Put it in your gamemodes init.lua and cl_init.lua, if you don't know how to set this up then don't use it.
 
